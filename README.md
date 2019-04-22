@@ -15,21 +15,6 @@
     - A myriad of links, github repos and snippets for quick access. A kind of [Evernote](https://evernote.com/) (plan B)
 * Version 1.01
 
-### How do I get set up? ###
-
-* Summary of set up
-    - 
-* Configuration
-    - 
-* Dependencies
-    - 
-* Database configuration
-    - 
-* How to run tests
-    - 
-* Deployment instructions
-    - 
-
 ### Source ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/experimental-inner-projects/src)
