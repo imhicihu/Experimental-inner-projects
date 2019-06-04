@@ -7,4 +7,6 @@
 * Programming environment 
     - https://repl.it
 * Cartography
-    - https://twitter.com/OSUCartoGroup  
+    - https://twitter.com/OSUCartoGroup
+* Code sharing (and invitation to participate too)
+    - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
