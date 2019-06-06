@@ -6,6 +6,8 @@
     - ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
 * Programming environment 
     - https://repl.it
+* R programming
+    - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * Cartography
     - https://twitter.com/OSUCartoGroup
 * Code sharing (and invitation to participate too)
