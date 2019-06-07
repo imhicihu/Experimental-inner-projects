@@ -12,7 +12,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A myriad of links, github repos and snippets for quick access. A kind of [Evernote](https://evernote.com/) (plan B)
+    - A myriad of links, github repos and snippets for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
 * Version 1.01
 
 ### Source ###
