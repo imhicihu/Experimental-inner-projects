@@ -12,6 +12,8 @@
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * Cartography
     - https://twitter.com/OSUCartoGroup
+* OpenStreetMap geotagging
+    - [Transport planning](https://github.com/Robinlovelace/osm4transport)
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Testing Apps with TestFlight (iOS)
