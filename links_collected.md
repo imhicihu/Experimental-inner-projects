@@ -10,6 +10,8 @@
     - https://repl.it
 * R programming
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
+* R meets Qgis
+    - [RQGIS3](https://github.com/jannes-m/RQGIS3) establishes an interface between R and QGIS3. [Paper](https://rjournal.github.io/archive/2017/RJ-2017-067/RJ-2017-067.pdf)
 * Cartography
     - https://twitter.com/OSUCartoGroup
 * OpenStreetMap geotagging
