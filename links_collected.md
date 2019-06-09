@@ -8,6 +8,8 @@
     - ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
 * Programming environment 
     - https://repl.it
+* Github link checker (updates)
+    - [awesome bot](https://github.com/dkhamsing/awesome_bot)
 * R programming
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * R meets Qgis
