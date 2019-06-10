@@ -22,3 +22,5 @@
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
+* Pandas & Geopandas
+    - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
