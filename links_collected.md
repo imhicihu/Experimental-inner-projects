@@ -12,6 +12,7 @@
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
 * R programming
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
+    - [R code style guide](https://github.com/romunov/r_style_guide)
 * R meets Qgis
     - [RQGIS3](https://github.com/jannes-m/RQGIS3) establishes an interface between R and QGIS3. [Paper](https://rjournal.github.io/archive/2017/RJ-2017-067/RJ-2017-067.pdf)
 * Cartography
