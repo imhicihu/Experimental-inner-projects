@@ -1,3 +1,5 @@
+* QGIS on Android
+    - check this [query](https://play.google.com/store/search?q=qfield&c=apps) 
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
