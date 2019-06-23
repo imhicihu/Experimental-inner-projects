@@ -28,4 +28,6 @@
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
 * R meets maps
-* [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
+    - [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
+* Mobile data collection
+    - [Open Data Kit](https://opendatakit.org/): Some examples can be found [here](https://opendatakit.org/community/research/)
