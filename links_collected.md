@@ -1,11 +1,13 @@
 * QGIS on Android
-    - check this [query](https://play.google.com/store/search?q=qfield&c=apps) 
+    - check this [query](https://play.google.com/store/search?q=qfield&c=apps)
+    - check [ESRI Github repos](https://esri.github.io/)
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
     - [Netron](https://github.com/lutzroeder/Netron): a viewer for neural network, deep learning and machine learning models.
 * R plus Github data analysis (and data visualization)
     - [How to obtain a bunch of GitHub issues or pull requests with R](https://github.com/jennybc/analyze-github-stuff-with-r)
+    - [ESRI R meetup](https://r-arcgis.github.io/)
 * Data mining
     - [Github de Datos Argentina](https://medium.com/datos-argentina/c%C3%B3mo-organizamos-el-github-de-datos-argentina-67026d2a6dd1)
 * Release tracking
