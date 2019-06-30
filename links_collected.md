@@ -35,3 +35,5 @@
     - [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
 * Mobile data collection
     - [Open Data Kit](https://opendatakit.org/): Some examples can be found [here](https://opendatakit.org/community/research/)
+* Twitter meets R
+    - https://github.com/yihui/twitter-blogdown
