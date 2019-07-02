@@ -37,3 +37,5 @@
     - [Open Data Kit](https://opendatakit.org/): Some examples can be found [here](https://opendatakit.org/community/research/)
 * Twitter meets R
     - https://github.com/yihui/twitter-blogdown
+* R plus data visualization
+    - https://github.com/WeAreVisualizers
