@@ -1,6 +1,6 @@
-![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-![issues-open](https://img.shields.io/badge/issues-open-green.svg)
+![stability-workinprogress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -47,4 +47,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://img.shields.io/badge/Llicence-MIT-brightgreen.svg)
+* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
