@@ -16,6 +16,8 @@
     - https://repl.it
 * Github link checker (updates)
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
+* Digital publishing
+    - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
 * R programming
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
     - [R code style guide](https://github.com/romunov/r_style_guide)
