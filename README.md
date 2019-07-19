@@ -1,6 +1,5 @@
 ![stability-workinprogress](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 ![internaluse-green](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
-
 ![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
 # RATIONALE #
@@ -8,6 +7,8 @@
 * A curated collection of links, data, github repos, snippets, ideas that can be a used in creative ways. 
 * The scope of this repository begins and ends with the former idea proposed.
 * This repo is a living document that will grow and adapt over time. We welcome your ideas, links and point of views
+
+![note-taking.png](https://bitbucket.org/repo/R9Xpo7y/images/2725558601-note-taking.png)
 
 ### What is this repository for? ###
 
