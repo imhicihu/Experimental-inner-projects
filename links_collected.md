@@ -1,6 +1,3 @@
-* QGIS on Android
-    - check this [query](https://play.google.com/store/search?q=qfield&c=apps)
-    - check [ESRI Github repos](https://esri.github.io/)
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
@@ -18,21 +15,12 @@
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
 * Digital publishing
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
-* R programming
-    - [Efficient R programming](https://csgillespie.github.io/efficientR/)
-    - [R code style guide](https://github.com/romunov/r_style_guide)
-* R meets Qgis
-    - [RQGIS3](https://github.com/jannes-m/RQGIS3) establishes an interface between R and QGIS3. [Paper](https://rjournal.github.io/archive/2017/RJ-2017-067/RJ-2017-067.pdf)
-* Cartography
-    - https://twitter.com/OSUCartoGroup
-* OpenStreetMap geotagging
-    - [Transport planning](https://github.com/Robinlovelace/osm4transport)
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
-* Pandas & Geopandas
-    - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
+
+## R ##
 * R meets maps
     - [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
 * Mobile data collection
@@ -41,3 +29,20 @@
     - https://github.com/yihui/twitter-blogdown
 * R plus data visualization
     - https://github.com/WeAreVisualizers
+* R meets Qgis
+    - [RQGIS3](https://github.com/jannes-m/RQGIS3) establishes an interface between R and QGIS3. [Paper](https://rjournal.github.io/archive/2017/RJ-2017-067/RJ-2017-067.pdf)
+* R programming
+    - [Efficient R programming](https://csgillespie.github.io/efficientR/)
+    - [R code style guide](https://github.com/romunov/r_style_guide)
+    
+## GIS ##
+* Cartography
+    - https://twitter.com/OSUCartoGroup
+    - [MapBox Studio Dataset Editor](https://studio.mapbox.com/)
+* OpenStreetMap geotagging
+    - [Transport planning](https://github.com/Robinlovelace/osm4transport)
+* QGIS on Android
+    - check this [query](https://play.google.com/store/search?q=qfield&c=apps)
+    - check [ESRI Github repos](https://esri.github.io/)
+* Pandas & Geopandas
+    - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
