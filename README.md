@@ -29,9 +29,9 @@
 * Writing tests
     - Please, any inquiry or point of view can be post in our [board](https://bitbucket.org/imhicihu/experimental-inner-projects/addon/trello/trello-board)
 * Code review
-    - 
+    - Any hint or pull request are wellcome
 * Other guidelines
-    - 
+    - There is no other guidelines up to now
 
 ### Who do I talk to? ###
 
