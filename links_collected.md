@@ -20,6 +20,9 @@
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
 
+## Conference APP ##
+* [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
+
 ## R ##
 * R meets maps
     - [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
