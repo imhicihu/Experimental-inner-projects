@@ -4,7 +4,7 @@
 
 # RATIONALE #
 
-* A curated collection of links, data, github repos, snippets, ideas that can be a used in creative ways. 
+* A curated collection of links, data, github repos, snippets, ideas that can be used in creative ways. 
 * The scope of this repository begins and ends with the former idea proposed.
 * This repo is a living document that will grow and adapt over time. We welcome your ideas, links and point of views
 
