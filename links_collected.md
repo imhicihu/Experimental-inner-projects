@@ -55,3 +55,6 @@
     - check [ESRI Github repos](https://esri.github.io/)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
+    
+## 3d reconstruction ##
+* [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
