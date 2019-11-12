@@ -48,6 +48,8 @@
 * Cartography
     - https://twitter.com/OSUCartoGroup
     - [MapBox Studio Dataset Editor](https://studio.mapbox.com/)
+* Create a geospatial IDE
+    - https://www.idera.gob.ar/index.php?option=com_content&view=article&id=186&Itemid=454
 * OpenStreetMap geotagging
     - [Transport planning](https://github.com/Robinlovelace/osm4transport)
 * QGIS on Android
