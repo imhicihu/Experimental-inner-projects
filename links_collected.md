@@ -17,6 +17,8 @@
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
+* Testing to webapps
+    - [gremlins](https://github.com/marmelab/gremlins.js)
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
 
