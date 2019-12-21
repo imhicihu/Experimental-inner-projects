@@ -15,6 +15,7 @@
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
 * Digital publishing
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
+    - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Testing to webapps
