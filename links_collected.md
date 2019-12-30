@@ -20,6 +20,8 @@
     - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
+* Speech recognition
+    - [Espeak](https://github.com/espeak-ng/espeak-ng)
 * Testing to webapps
     - [gremlins](https://github.com/marmelab/gremlins.js)
 * Testing Apps with TestFlight (iOS)
