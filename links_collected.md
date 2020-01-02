@@ -15,6 +15,8 @@
     - https://repl.it
 * Github link checker (updates)
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
+* Photogrammetry
+    - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
 * Digital publishing
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
     - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
