@@ -71,3 +71,4 @@
     
 ## 3d reconstruction ##
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Putting a Mountain Of Data In Your Hands - From a Point Cloud to a 3D Printed Model using ENVI LiDAR and IDL](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/19905/Putting-a-Mountain-Of-Data-In-Your-Hands-From-a-Point-Cloud-to-a-3D-Printed-Model-using-ENVI-LiDAR-and-IDL)
