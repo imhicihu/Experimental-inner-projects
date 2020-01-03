@@ -64,6 +64,8 @@
 * QGIS on Android
     - *check this* [query](https://play.google.com/store/search?q=qfield&c=apps)
     - check [ESRI Github repos](https://esri.github.io/)
+* FWTools: Open Source GIS Binary Kit for Windows
+    - [FWTools](http://fwtools.maptools.org/)
 * Data visualization
     - [Keppler](https://kepler.gl/)
 * Pandas & Geopandas
