@@ -62,8 +62,10 @@
 * OpenStreetMap geotagging
     - [Transport planning](https://github.com/Robinlovelace/osm4transport)
 * QGIS on Android
-    - check this [query](https://play.google.com/store/search?q=qfield&c=apps)
+    - *check this* [query](https://play.google.com/store/search?q=qfield&c=apps)
     - check [ESRI Github repos](https://esri.github.io/)
+* Data visualization
+    - [Keppler](https://kepler.gl/)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
     
