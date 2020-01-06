@@ -20,6 +20,7 @@
 * Digital publishing
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
     - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
+    - [Zeit Now](https://zeit.co/docs): cloud platform for static sites and Serverless Functions. It enables developers to host websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Speech recognition
