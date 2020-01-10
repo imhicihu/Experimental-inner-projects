@@ -67,6 +67,8 @@
     - check [ESRI Github repos](https://esri.github.io/)
 * FWTools: Open Source GIS Binary Kit for Windows
     - [FWTools](http://fwtools.maptools.org/)
+* Urban planning
+    - [Urban Sim](https://github.com/UDST/urbansim)
 * Data visualization
     - [Keppler](https://kepler.gl/)
 * Pandas & Geopandas
