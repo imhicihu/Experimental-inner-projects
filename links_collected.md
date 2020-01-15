@@ -43,7 +43,7 @@
 * R applied to digital humanities
     - [RLetters](https://github.com/rletters/rletters)
 * R plus data visualization
-    - https://github.com/WeAreVisualizers
+    - [WeareVisualizers](https://github.com/WeAreVisualizers)
 * Semantics in R
     - [Semantic flow graphs](https://github.com/IBM/semanticflowgraph/)
 * R meets Qgis
@@ -72,7 +72,8 @@
 * Data visualization
     - [Keppler](https://kepler.gl/)
 * Blender + Gis
-    - https://github.com/domlysz/BlenderGIS
+    - [BlenderGIS](https://github.com/domlysz/BlenderGIS)
+    - ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
     
