@@ -71,6 +71,8 @@
     - [Urban Sim](https://github.com/UDST/urbansim)
 * Data visualization
     - [Keppler](https://kepler.gl/)
+* Blender + Gis
+    - https://github.com/domlysz/BlenderGIS
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
     
