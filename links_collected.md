@@ -27,6 +27,8 @@
     - [Espeak](https://github.com/espeak-ng/espeak-ng)
 * Testing to webapps
     - [gremlins](https://github.com/marmelab/gremlins.js)
+* NPM generator (to generate/automatize documentation)
+    - https://github.com/kefranabg/readme-md-generator
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
 
