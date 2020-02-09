@@ -10,7 +10,7 @@
 * Release tracking
     - ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
 * CSS (toolbox & to play sandboxed)
-    - [Universal CSS][https://github.com/marmelab/universal.css]: to play around with specifications
+    - [Universal CSS](https://github.com/marmelab/universal.css): to play around with specifications
 * Programming environment 
     - https://repl.it
 * Github link checker (updates)
@@ -20,6 +20,7 @@
 * Digital publishing
     - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
     - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
+* SPA deployment
     - [Zeit Now](https://zeit.co/docs): cloud platform for static sites and Serverless Functions. It enables developers to host websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
 * Code sharing (and invitation to participate too)
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
