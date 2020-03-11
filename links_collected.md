@@ -48,6 +48,8 @@
     - [gremlins](https://github.com/marmelab/gremlins.js)
 * Webapps in javascript flavour
     - [Hyperapp](https://hyperapp.dev/)
+* Cross-platform apps
+    - [Deskfiler](https://www.deskfiler.org/)
 
 ## R ##
 * R meets maps
