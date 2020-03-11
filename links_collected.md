@@ -35,8 +35,6 @@
     - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
 * Speech recognition
     - [Espeak](https://github.com/espeak-ng/espeak-ng)
-* Testing to webapps
-    - [gremlins](https://github.com/marmelab/gremlins.js)
 * NPM generator (to generate/automatize documentation)
     - https://github.com/kefranabg/readme-md-generator
 * Testing Apps with TestFlight (iOS)
@@ -44,6 +42,12 @@
 
 ## Conference APP ##
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
+
+## Webapps
+* Testing to webapps
+    - [gremlins](https://github.com/marmelab/gremlins.js)
+* Webapps in javascript flavour
+    - [Hyperapp](https://hyperapp.dev/)
 
 ## R ##
 * R meets maps
