@@ -11,6 +11,8 @@
     - ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
 * CSS (toolbox & to play sandboxed)
     - [Universal CSS](https://github.com/marmelab/universal.css): to play around with specifications
+* Communication and File sharing
+    - [HyperHyper Space](https://hyperhyper.space/)
 * Programming environment 
     - https://repl.it
 * Github link checker (updates)
