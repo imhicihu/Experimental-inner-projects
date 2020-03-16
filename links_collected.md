@@ -1,3 +1,4 @@
+## Various ##
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
@@ -25,11 +26,13 @@
     - [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))
     - [bindery.js](https://github.com/evnbr/bindery) ([website](https://evanbrooks.info/bindery/))
     - [HummusJS](https://github.com/galkahana/HummusJS)
-    - [Editoria](https://gitlab.coko.foundation/editoria/editoria) ([website](https://editoria.pub/))
+    - [Editoria](https://gitlab.coko.foundation/editoria/editoria) → ([website](https://editoria.pub/))
     - [pagedjs](https://gitlab.pagedmedia.org/tools/pagedjs) ([article](https://www.pagedmedia.org/pagedjs-sneak-peeks/))
     - [Mercury](https://mercury.postlight.com/)
     - [Foliojs](https://github.com/foliojs)
-* pdf command-line
+* PDF Viewer (wrapper in an `browser-windows`)
+    - [PDF-Window](https://github.com/gerhardberger/electron-pdf-window)
+* PDF command-line
     - [Percollate](https://github.com/danburzo/percollate/)
 * SPA deployment
     - [Zeit Now](https://zeit.co/docs): cloud platform for static sites and Serverless Functions. It enables developers to host websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
