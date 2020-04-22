@@ -101,6 +101,9 @@
     - ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
+
+## Automatization
+* [Puppeteer](https://github.com/puppeteer/puppeteer)
     
 ## 3d reconstruction ##
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
