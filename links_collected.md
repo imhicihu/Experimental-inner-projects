@@ -46,6 +46,8 @@
     - https://github.com/kefranabg/readme-md-generator
 * Testing Apps with TestFlight (iOS)
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
+* Collecting data (offline & online mode)
+    - [Kokotoolbox](https://www.kobotoolbox.org/)
 
 ## Conference APP ##
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
