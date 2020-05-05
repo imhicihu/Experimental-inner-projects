@@ -34,6 +34,7 @@
     - [Foliojs](https://github.com/foliojs)
 * PDF Viewer (wrapper in an `browser-windows`)
     - [PDF-Window](https://github.com/gerhardberger/electron-pdf-window)
+    - [React PDF viewer](https://react-pdf-viewer.dev/)
 * PDF command-line
     - [Percollate](https://github.com/danburzo/percollate/)
 * SPA deployment
