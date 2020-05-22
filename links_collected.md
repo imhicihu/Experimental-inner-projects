@@ -49,7 +49,8 @@
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
 * Collecting data (offline & online mode)
     - [Kokotoolbox](https://www.kobotoolbox.org/)
-
+* React (alternative with a minimalistic approach)
+    - [alt-react](https://github.com/bryanbraun/alt-react-demo)
 ## Conference APP ##
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
 
