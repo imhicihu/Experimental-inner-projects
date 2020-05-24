@@ -51,6 +51,8 @@
     - [Kokotoolbox](https://www.kobotoolbox.org/)
 * React (alternative with a minimalistic approach)
     - [alt-react](https://github.com/bryanbraun/alt-react-demo)
+* Creact your own React
+    - [Didact](https://github.com/pomber/didact)
 ## Conference APP ##
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
 
