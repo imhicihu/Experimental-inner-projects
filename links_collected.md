@@ -3,9 +3,6 @@
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
     - [Netron](https://github.com/lutzroeder/Netron): a viewer for neural network, deep learning and machine learning models.
-* R plus Github data analysis (and data visualization)
-    - [How to obtain a bunch of GitHub issues or pull requests with R](https://github.com/jennybc/analyze-github-stuff-with-r)
-    - [ESRI R meetup](https://r-arcgis.github.io/)
 * Data mining
     - [Github de Datos Argentina](https://medium.com/datos-argentina/c%C3%B3mo-organizamos-el-github-de-datos-argentina-67026d2a6dd1)
 * Release tracking
@@ -84,6 +81,9 @@
 * R programming
     - [Efficient R programming](https://csgillespie.github.io/efficientR/)
     - [R code style guide](https://github.com/romunov/r_style_guide)
+* R plus Github data analysis (and data visualization)
+    - [How to obtain a bunch of GitHub issues or pull requests with R](https://github.com/jennybc/analyze-github-stuff-with-r)
+    - [ESRI R meetup](https://r-arcgis.github.io/)
     
 ## GIS ##
 * Cartography
@@ -114,3 +114,6 @@
 ## 3d reconstruction ##
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
 * [Putting a Mountain Of Data In Your Hands - From a Point Cloud to a 3D Printed Model using ENVI LiDAR and IDL](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/19905/Putting-a-Mountain-Of-Data-In-Your-Hands-From-a-Point-Cloud-to-a-3D-Printed-Model-using-ENVI-LiDAR-and-IDL)
+
+## Digital publications
+* [BookDown](https://bookdown.org/): Write HTML, PDF, ePub, and Kindle books with R Markdown
