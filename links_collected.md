@@ -1,3 +1,7 @@
+## Book covers API ##
+* [OpenLibrary API](https://openlibrary.org/developers/api)
+* [LibraryThing](https://www.librarything.com/services/)
+
 ## Various ##
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
