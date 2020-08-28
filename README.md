@@ -4,7 +4,7 @@
 
 # RATIONALE #
 
-* A curated collection of links, data, github repos, snippets, ideas that can be used in creative ways. 
+* A curated collection of [links](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md), data, github repos, snippets, ideas that can be used in creative ways. 
 * The scope of this repository begins and ends with the former idea proposed.
 * This repo is a living document that will grow and adapt over time. We welcome your ideas, links and point of views
 
@@ -13,7 +13,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A myriad of links, github repos and snippets for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
+    - A myriad of [links](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md), github [repos](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md) and [snippets](https://bitbucket.org/imhicihu/workspace/snippets/) for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
 * Version 1.01
 
 ### Source ###
