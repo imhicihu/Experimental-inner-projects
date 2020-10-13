@@ -13,7 +13,7 @@
 * Data mining
     - [Github de Datos Argentina](https://medium.com/datos-argentina/c%C3%B3mo-organizamos-el-github-de-datos-argentina-67026d2a6dd1)
 * Release tracking
-    - ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
+    ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
 * CSS (toolbox & to play sandboxed)
     - [Universal CSS](https://github.com/marmelab/universal.css): to play around with specifications
 * Communication and File sharing
@@ -26,16 +26,6 @@
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
 * Photogrammetry
     - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
-* Digital publishing
-    - [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
-    - [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
-    - [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))
-    - [bindery.js](https://github.com/evnbr/bindery) ([website](https://evanbrooks.info/bindery/))
-    - [HummusJS](https://github.com/galkahana/HummusJS)
-    - [Editoria](https://gitlab.coko.foundation/editoria/editoria) → ([website](https://editoria.pub/))
-    - [pagedjs](https://gitlab.pagedmedia.org/tools/pagedjs) ([article](https://www.pagedmedia.org/pagedjs-sneak-peeks/))
-    - [Mercury](https://mercury.postlight.com/)
-    - [Foliojs](https://github.com/foliojs)
 * PDF Viewer (wrapper in an `browser-windows`)
     - [PDF-Window](https://github.com/gerhardberger/electron-pdf-window)
     - [React PDF viewer](https://react-pdf-viewer.dev/)
@@ -58,6 +48,8 @@
     - [alt-react](https://github.com/bryanbraun/alt-react-demo)
 * Creact your own React
     - [Didact](https://github.com/pomber/didact)
+* Metadata attribution (across internet)
+    - [NYTimes effort on metadata recognition](https://rd.nytimes.com/research/misinformation)
 ## Conference APP ##
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
 
@@ -112,7 +104,7 @@
     - [Keppler](https://kepler.gl/)
 * Blender + Gis
     - [BlenderGIS](https://github.com/domlysz/BlenderGIS)
-    - ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
+    ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
 
@@ -123,5 +115,14 @@
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
 * [Putting a Mountain Of Data In Your Hands - From a Point Cloud to a 3D Printed Model using ENVI LiDAR and IDL](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/19905/Putting-a-Mountain-Of-Data-In-Your-Hands-From-a-Point-Cloud-to-a-3D-Printed-Model-using-ENVI-LiDAR-and-IDL)
 
-## Digital publications
+## Digital publishing ##
+* [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
+* [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
+* [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))
+* [bindery.js](https://github.com/evnbr/bindery) ([website](https://evanbrooks.info/bindery/))
+* [HummusJS](https://github.com/galkahana/HummusJS)
+* [Editoria](https://gitlab.coko.foundation/editoria/editoria) → ([website](https://editoria.pub/))
+* [pagedjs](https://gitlab.pagedmedia.org/tools/pagedjs) ([article](https://www.pagedmedia.org/pagedjs-sneak-peeks/))
+* [Mercury](https://mercury.postlight.com/)
+* [Foliojs](https://github.com/foliojs)
 * [BookDown](https://bookdown.org/): Write HTML, PDF, ePub, and Kindle books with R Markdown
