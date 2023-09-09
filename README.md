@@ -13,36 +13,16 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A myriad of [links](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md), github [repos](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md) and [snippets](https://bitbucket.org/imhicihu/workspace/snippets/) for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
-* Version 1.01
-
-### Source ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/experimental-inner-projects/src)
-
-### Changelog ###
-
-* Please check the [Commits](https://bitbucket.org/imhicihu/experimental-inner-projects/commits/) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-    - Please, any inquiry or point of view can be post in our [board](https://bitbucket.org/imhicihu/experimental-inner-projects/addon/trello/trello-board)
-* Code review
-    - Any hint or pull request are welcome
-* Other guidelines
-    - There is no other guidelines up to now
+    - A myriad of [links](links_collected.md) and [snippets](https://gist.github.com/imhicihu) for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/experimental-inner-projects/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
