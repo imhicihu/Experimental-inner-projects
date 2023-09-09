@@ -1,11 +1,11 @@
-## Android & iOS app creation
+### Android & iOS app creation
 * [Jasonelle](https://github.com/jasonelle): simple mobile app framework using JSON
 
-## Book covers API ##
+### Book covers API
 * [OpenLibrary API](https://openlibrary.org/developers/api)
 * [LibraryThing](https://www.librarything.com/services/)
 
-## Various ##
+### Various
 * Python
     - [Luigi](https://luigi.readthedocs.io/en/stable/): build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * Machine learning
@@ -50,10 +50,11 @@
     - [Didact](https://github.com/pomber/didact)
 * Metadata attribution (across internet)
     - [NYTimes effort on metadata recognition](https://rd.nytimes.com/research/misinformation)
-## Conference APP ##
+
+### Conference APP
 * [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
 
-## Webapps
+### Webapps
 * Testing to webapps
     - [gremlins](https://github.com/marmelab/gremlins.js)
 * Webapps in javascript flavour
@@ -61,7 +62,7 @@
 * Cross-platform apps
     - [Deskfiler](https://www.deskfiler.org/)
 
-## R ##
+### R 
 * R meets maps
     - [tmap: thematic maps in R](https://github.com/mtennekes/tmap)
 * Mobile data collection
@@ -85,7 +86,7 @@
     - [How to obtain a bunch of GitHub issues or pull requests with R](https://github.com/jennybc/analyze-github-stuff-with-r)
     - [ESRI R meetup](https://r-arcgis.github.io/)
     
-## GIS ##
+### GIS
 * Cartography
     - https://twitter.com/OSUCartoGroup
     - [MapBox Studio Dataset Editor](https://studio.mapbox.com/)
@@ -104,18 +105,19 @@
     - [Keppler](https://kepler.gl/)
 * Blender + Gis
     - [BlenderGIS](https://github.com/domlysz/BlenderGIS)
+    <BR></BR>
     ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
 * Pandas & Geopandas
     - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
 
-## Automatization
+### Automatization
 * [Puppeteer](https://github.com/puppeteer/puppeteer)
     
-## 3d reconstruction ##
+### 3d reconstruction
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
 * [Putting a Mountain Of Data In Your Hands - From a Point Cloud to a 3D Printed Model using ENVI LiDAR and IDL](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/19905/Putting-a-Mountain-Of-Data-In-Your-Hands-From-a-Point-Cloud-to-a-3D-Printed-Model-using-ENVI-LiDAR-and-IDL)
 
-## Digital publishing ##
+### Digital publishing
 * [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
 * [Sigil Ebook](https://sigil-ebook.com): multi-platform EPUB ebook Editor
 * [weasyprint](https://github.com/Kozea/WeasyPrint) ([website](https://weasyprint.org/))
