@@ -1,5 +1,5 @@
 ### Android & iOS app creation
-* [Jasonelle](https://github.com/jasonelle): simple mobile app framework using JSON
+* ~~[Jasonelle](https://github.com/jasonelle): simple mobile app framework using JSON~~
 
 ### Book covers API
 * [OpenLibrary API](https://openlibrary.org/developers/api)
