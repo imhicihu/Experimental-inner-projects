@@ -13,13 +13,13 @@
 * Data mining
     - [Github de Datos Argentina](https://medium.com/datos-argentina/c%C3%B3mo-organizamos-el-github-de-datos-argentina-67026d2a6dd1)
 * Release tracking
-    ![pipeline.jpeg](https://bitbucket.org/repo/yprLRxE/images/1873850285-pipeline.jpeg)
+    ![pipeline.jpeg](images/1873850285-pipeline.jpeg)
 * CSS (toolbox & to play sandboxed)
     - [Universal CSS](https://github.com/marmelab/universal.css): to play around with specifications
 * Communication and File sharing
-    - [HyperHyper Space](https://hyperhyper.space/)
+    - ~~[HyperHyper Space](https://hyperhyper.space/)~~
 * Progressive Web Apps
-    - [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/):
+    - [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/)
 * Programming environment 
     - https://repl.it
 * Github link checker (updates)
@@ -35,7 +35,7 @@
     - ~~[Zeit Now](https://zeit.co/docs): cloud platform for static sites and Serverless Functions. It enables developers to host websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.~~
     - [Vercel](https://vercel.com/): Vercel is the optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN
 * Code sharing (and invitation to participate too)
-    - [Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)
+    - ~~[Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)~~
 * Speech recognition
     - [Espeak](https://github.com/espeak-ng/espeak-ng)
 * NPM generator (to generate/automatize documentation)
@@ -46,19 +46,14 @@
     - [Kokotoolbox](https://www.kobotoolbox.org/)
 * React (alternative with a minimalistic approach)
     - [alt-react](https://github.com/bryanbraun/alt-react-demo)
-* Creact your own React
+* Create your own React
     - [Didact](https://github.com/pomber/didact)
-* Metadata attribution (across internet)
-    - [NYTimes effort on metadata recognition](https://rd.nytimes.com/research/misinformation)
-
-### Conference APP
-* [Sheety](https://sheety.co/): convert any google spreadsheet in a web app. _work in progress_
 
 ### Webapps
 * Testing to webapps
     - [gremlins](https://github.com/marmelab/gremlins.js)
 * Webapps in javascript flavour
-    - [Hyperapp](https://hyperapp.dev/)
+    - [Hyperapp](https://github.com/jorgebucaran/hyperapp)
 * Cross-platform apps
     - [Deskfiler](https://www.deskfiler.org/)
 
@@ -108,7 +103,7 @@
     <BR></BR>
     ![BlenderGIS](https://bitbucket.org/repo/R9Xpo7y/images/3010437693-srtm_demo.gif)
 * Pandas & Geopandas
-    - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): gepdata-spatial analysis
+    - [Explore UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/geopandas-workshop): geopandas data-spatial analysis
 
 ### Automatization
 * [Puppeteer](https://github.com/puppeteer/puppeteer)
