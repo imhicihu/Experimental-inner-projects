@@ -1,14 +1,13 @@
-![stability-workinprogress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-workinprogress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
-* A curated collection of [links](https://bitbucket.org/imhicihu/experimental-inner-projects/src/master/links_collected.md), data, github repos, snippets, ideas that can be used in creative ways. 
+* A curated collection of [links](links_collected.md), data, GitHub repos, snippets, ideas that can be used in creative ways. 
 * The scope of this repository begins and ends with the former idea proposed.
 * This repo is a living document that will grow and adapt over time. We welcome your ideas, links and point of views
-
-![note-taking.png](https://bitbucket.org/repo/R9Xpo7y/images/2725558601-note-taking.png)
+![note-taking.png](images/2725558601-note-taking.png)
 
 ### What is this repository for? ###
 
@@ -30,4 +29,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
