@@ -123,3 +123,6 @@
 * [Mercury](https://mercury.postlight.com/)
 * [Foliojs](https://github.com/foliojs)
 * [BookDown](https://bookdown.org/): Write HTML, PDF, ePub, and Kindle books with R Markdown
+
+### Accesibility
+* [Davidson accesibility](https://digitallearning.davidson.edu/accessibility/)
