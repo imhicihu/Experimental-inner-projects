@@ -131,4 +131,5 @@
 
 ### Privacy & law
 * [iubenda](https://www.iubenda.com/en/)
+![pipeline.jpeg](images/IMG_0122.PNG)
 
