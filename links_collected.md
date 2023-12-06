@@ -128,9 +128,7 @@
 
 ### Accesibility
 * [Davidson accesibility](https://digitallearning.davidson.edu/accessibility/)
-<<<<<<< HEAD
 
 ### Privacy & law
 * [iubenda](https://www.iubenda.com/en/)
-=======
->>>>>>> c035c65399f50563288680cd2f88f24fb7028ec2
+
