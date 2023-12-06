@@ -24,8 +24,6 @@
     - https://repl.it
 * Github link checker (updates)
     - [awesome bot](https://github.com/dkhamsing/awesome_bot)
-* Photogrammetry
-    - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
 * PDF Viewer (wrapper in an `browser-windows`)
     - [PDF-Window](https://github.com/gerhardberger/electron-pdf-window)
     - [React PDF viewer](https://react-pdf-viewer.dev/)
@@ -111,6 +109,8 @@
 ### 3d reconstruction
 * [Curated list of 3d reconstruction projects](https://github.com/openMVG/awesome_3DReconstruction_list)
 * [Putting a Mountain Of Data In Your Hands - From a Point Cloud to a 3D Printed Model using ENVI LiDAR and IDL](https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/19905/Putting-a-Mountain-Of-Data-In-Your-Hands-From-a-Point-Cloud-to-a-3D-Printed-Model-using-ENVI-LiDAR-and-IDL)
+* Photogrammetry
+    - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
 
 ### Digital publishing
 * [Magic Book Project](https://github.com/runemadsen/Magic-Book-Project)
@@ -128,6 +128,9 @@
 
 ### Accesibility
 * [Davidson accesibility](https://digitallearning.davidson.edu/accessibility/)
+<<<<<<< HEAD
 
 ### Privacy & law
 * [iubenda](https://www.iubenda.com/en/)
+=======
+>>>>>>> c035c65399f50563288680cd2f88f24fb7028ec2
