@@ -42,10 +42,14 @@
     - [Beta testing offers through the AppStore](https://testflight.apple.com/join/ngU3gLEv). By the way, _imho_ needs a non-free developer license (to offer this beta testing)
 * Collecting data (offline & online mode)
     - [Kokotoolbox](https://www.kobotoolbox.org/)
-* React (alternative with a minimalistic approach)
-    - [alt-react](https://github.com/bryanbraun/alt-react-demo)
+* Diagram & chart (data visualization)
+		- [Mermaid](https://mermaid.js.org/)
+
+### React
 * Create your own React
     - [Didact](https://github.com/pomber/didact)
+* React (alternative with a minimalistic approach)
+    - [alt-react](https://github.com/bryanbraun/alt-react-demo)
 
 ### Webapps
 * Testing to webapps
