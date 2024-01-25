@@ -9,12 +9,12 @@
 * This repo is a living document that will grow and adapt over time. We welcome your ideas, links and point of views
 ![note-taking.png](images/2725558601-note-taking.png)
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
     - A myriad of [links](links_collected.md) and [snippets](https://gist.github.com/imhicihu) for quick access. A kind of [Evernote](https://evernote.com/) (plan B) or _quick-reminder_/_mindmaps_ to check.
 
-### Who do I talk to? ###
+### Who do I talk to?
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
@@ -23,10 +23,10 @@
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners.
 
-### License ###
+### License
 
 * The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
