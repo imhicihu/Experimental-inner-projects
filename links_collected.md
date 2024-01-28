@@ -1,5 +1,4 @@
-### Android & iOS app creation
-* ~~[Jasonelle](https://github.com/jasonelle): simple mobile app framework using JSON~~
+
 
 ### Book covers API
 * [OpenLibrary API](https://openlibrary.org/developers/api)
@@ -16,8 +15,6 @@
     ![pipeline.jpeg](images/1873850285-pipeline.jpeg)
 * CSS (toolbox & to play sandboxed)
     - [Universal CSS](https://github.com/marmelab/universal.css): to play around with specifications
-* Communication and File sharing
-    - ~~[HyperHyper Space](https://hyperhyper.space/)~~
 * Progressive Web Apps
     - [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/)
 * Programming environment 
@@ -31,7 +28,6 @@
     - [Percollate](https://github.com/danburzo/percollate/)
 * SPA deployment
     - ~~[Zeit Now](https://zeit.co/docs): cloud platform for static sites and Serverless Functions. It enables developers to host websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.~~
-    - [Vercel](https://vercel.com/): Vercel is the optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN
 * Code sharing (and invitation to participate too)
     - ~~[Heroku & Slack](https://macadmins.herokuapp.com/) => [Slacking](https://github.com/rauchg/slackin)~~
 * Speech recognition
