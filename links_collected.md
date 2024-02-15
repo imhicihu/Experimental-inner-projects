@@ -135,3 +135,6 @@
 
 ### Archiving & web scrapping
 * [archive.ph](https://archive.ph/)
+
+### Cron jobs (alarm of uptime server)
+* https://github.com/upptime/upptime
