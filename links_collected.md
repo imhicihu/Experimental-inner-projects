@@ -39,7 +39,7 @@
 * Collecting data (offline & online mode)
     - [Kokotoolbox](https://www.kobotoolbox.org/)
 * Diagram & chart (data visualization)
-		- [Mermaid](https://mermaid.js.org/)
+    - [Mermaid](https://mermaid.js.org/)
 
 ### React
 * Create your own React
