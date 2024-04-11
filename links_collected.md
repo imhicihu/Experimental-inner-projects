@@ -138,3 +138,6 @@
 
 ### Cron jobs (alarm of uptime server)
 * https://github.com/upptime/upptime
+
+### Mailto
+* [Mailto generator](https://mailtolink.me/)
